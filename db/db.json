@@ -45,7 +45,7 @@
       "track": "anti",
       "artist": "trapship_collective",
       "audio_file": "music/trapship_collective-anti.mp3",
-      "image_src": "./images/trapship.png",
+      "image_src": "images/trapship.png",
       "likes": 0
     },
     {
@@ -53,7 +53,7 @@
       "track": "action",
       "artist": "tregadd",
       "audio_file": "music/tregadd-action.mp3",
-      "image_src": "./images/tregadd.jpg",
+      "image_src": "images/tregadd.jpg",
       "likes": -2
     },
     {
@@ -61,7 +61,7 @@
       "track": "perfect-timing",
       "artist": "wxlf",
       "audio_file": "music/wxlf-perfect_timing.mp3",
-      "image_src": "./images/wxlf.jpg",
+      "image_src": "images/wxlf.jpg",
       "likes": 2
     }
   ]
