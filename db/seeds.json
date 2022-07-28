@@ -2,65 +2,66 @@
     "Music": [
       {
         "id": 1,
-        "track": "Daddy Issues",
-        "artist": "Beleaf",
-        "image_src": "./images/Beleaf.jpg",
+        "track": "daddyissues",
+        "artist": "beleaf",
+        "audio_file": "music/beleaf-daddy_issues.mp3",
+        "image_src": "images/beleaf.jpg",
         "likes": 8
       },
       {
         "id": 2,
-        "track": "Hold Me Back",
-        "artist": "Canon",
-        "image_src": "./images/Canon.jpg",
+        "track": "hold_me_back",
+        "artist": "canon",
+        "audio_file": "music/canon-hold_me_back.mp3",
+        "image_src": "images/canon.jpg",
         "likes": 14
       },
-      {
+            {
         "id": 3,
-        "track": "After",
-        "artist": "Dillon Chase",
-        "image_src": "./images/Chase.jpg",
-        "likes": 3
-      },
-      {
-        "id": 4,
-        "track": "Beautiful",
-        "artist": "Hulvey",
-        "image_src": "./images/hulvey.jpg",
+        "track": "beautiful",
+        "artist": "hulvey",
+        "audio_file": "music/hulvey-beautiful.mp3",
+        "image_src": "images/hulvey.jpg",
         "likes": 4
       },
       {
-        "id": 5,
-        "track": "Tricky",
-        "artist": "Red Tips",
-        "image_src": "./images/red Tips.jpg",
+        "id": 4,
+        "track": "tricky",
+        "artist": "redtips",
+        "audio_file": "music/red_tips-tricky.mp3",
+        "image_src": "images/redtips.jpg",
         "likes": 1
       },
       {
-        "id": 6,
-        "track": "DESTRUCTION",
-        "artist": "Tobe Nwigwe",
-        "image_src": "./images/Tobe.jpg",
+        "id": 5,
+        "track": "destruction",
+        "artist": "tobe-nwigwe",
+        "audio_file": "music/tobe_nwigwe-destruction.mp3",
+        "image_src": "images/tobe.jpg",
         "likes": 2
       },
       {
-        "id": 7,
-        "track": "ANTI",
-        "artist": "TRAPSHIP COLLECTIVE",
-        "image_src": "./images/Trapship.png",
+        "id": 6,
+        "track": "anti",
+        "artist": "trapship_collective",
+        "audio_file": "music/trapship_collective-anti.mp3",
+        "image_src": "./images/trapship.png",
         "likes": 0
       },
       {
-        "id": 8,
-        "track": "ACTION",
-        "artist": "TreGadd",
-        "image_src": "./images/TreGadd.jpg",
+        "id": 7,
+        "track": "action",
+        "artist": "tregadd",
+        "audio_file": "music/tregadd-action.mp3",
+        "image_src": "./images/tregadd.jpg",
         "likes": -2
       },
       {
-        "id": 9,
-        "track": "Perfect Timing",
-        "artist": "Wxlf",
-        "image_src": "./images/Wxlf.jpg",
+        "id": 8,
+        "track": "perfect-timing",
+        "artist": "wxlf",
+        "audio_file": "music/wxlf-perfect_timing.mp3",
+        "image_src": "./images/wxlf.jpg",
         "likes": 2
       }
     ]
